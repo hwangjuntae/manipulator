@@ -16,6 +16,7 @@
 /home/teus/manipulator/install/manipulator/share/manipulator/meshes/link6_1.stl
 /home/teus/manipulator/install/manipulator/share/manipulator/meshes/link7_1.stl
 /home/teus/manipulator/install/manipulator/share/manipulator/rviz/rviz_basic_settings.rviz
+/home/teus/manipulator/install/manipulator/share/manipulator/src/image_reconstruction.py
 /home/teus/manipulator/install/manipulator/share/manipulator/urdf/manipulator.gazebo
 /home/teus/manipulator/install/manipulator/share/manipulator/urdf/manipulator.trans
 /home/teus/manipulator/install/manipulator/share/manipulator/urdf/manipulator.urdf
