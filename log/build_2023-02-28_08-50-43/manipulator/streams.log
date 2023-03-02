@@ -1,0 +1,24 @@
+[0.021s] Invoking command in '/home/teus/manipulator/build/manipulator': /usr/bin/cmake --build /home/teus/manipulator/build/manipulator -- -j16 -l16
+[0.044s] Invoked command in '/home/teus/manipulator/build/manipulator' returned '0': /usr/bin/cmake --build /home/teus/manipulator/build/manipulator -- -j16 -l16
+[0.062s] Invoking command in '/home/teus/manipulator/build/manipulator': /usr/bin/cmake --install /home/teus/manipulator/build/manipulator
+[0.067s] -- Install configuration: ""
+[0.067s] -- Execute custom install script
+[0.067s] -- Up-to-date symlink: /home/teus/manipulator/install/manipulator/share/manipulator/launch/manipulator.launch.py
+[0.068s] -- Up-to-date symlink: /home/teus/manipulator/install/manipulator/share/manipulator/rviz/rviz_basic_settings.rviz
+[0.068s] -- Up-to-date symlink: /home/teus/manipulator/install/manipulator/share/manipulator/urdf/manipulator.xacro
+[0.069s] -- Up-to-date symlink: /home/teus/manipulator/install/manipulator/share/ament_index/resource_index/package_run_dependencies/manipulator
+[0.069s] -- Up-to-date symlink: /home/teus/manipulator/install/manipulator/share/ament_index/resource_index/parent_prefix_path/manipulator
+[0.069s] -- Up-to-date symlink: /home/teus/manipulator/install/manipulator/share/manipulator/environment/ament_prefix_path.sh
+[0.069s] -- Up-to-date symlink: /home/teus/manipulator/install/manipulator/share/manipulator/environment/ament_prefix_path.dsv
+[0.069s] -- Up-to-date symlink: /home/teus/manipulator/install/manipulator/share/manipulator/environment/path.sh
+[0.070s] -- Up-to-date symlink: /home/teus/manipulator/install/manipulator/share/manipulator/environment/path.dsv
+[0.070s] -- Up-to-date symlink: /home/teus/manipulator/install/manipulator/share/manipulator/local_setup.bash
+[0.070s] -- Up-to-date symlink: /home/teus/manipulator/install/manipulator/share/manipulator/local_setup.sh
+[0.070s] -- Up-to-date symlink: /home/teus/manipulator/install/manipulator/share/manipulator/local_setup.zsh
+[0.070s] -- Up-to-date symlink: /home/teus/manipulator/install/manipulator/share/manipulator/local_setup.dsv
+[0.071s] -- Symlinking: /home/teus/manipulator/install/manipulator/share/manipulator/package.dsv
+[0.076s] -- Up-to-date symlink: /home/teus/manipulator/install/manipulator/share/ament_index/resource_index/packages/manipulator
+[0.077s] -- Up-to-date symlink: /home/teus/manipulator/install/manipulator/share/manipulator/cmake/manipulatorConfig.cmake
+[0.077s] -- Up-to-date symlink: /home/teus/manipulator/install/manipulator/share/manipulator/cmake/manipulatorConfig-version.cmake
+[0.077s] -- Up-to-date symlink: /home/teus/manipulator/install/manipulator/share/manipulator/package.xml
+[0.078s] Invoked command in '/home/teus/manipulator/build/manipulator' returned '0': /usr/bin/cmake --install /home/teus/manipulator/build/manipulator

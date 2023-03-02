@@ -1,0 +1,2 @@
+Invoking command in '/home/teus/manipulator/build/manipulator_description': /usr/bin/cmake /home/teus/manipulator/src/manipulator_description -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/teus/manipulator/install/manipulator_description
+Invoked command in '/home/teus/manipulator/build/manipulator_description' returned '1': /usr/bin/cmake /home/teus/manipulator/src/manipulator_description -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/teus/manipulator/install/manipulator_description
