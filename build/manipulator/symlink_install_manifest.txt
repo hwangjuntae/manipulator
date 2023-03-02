@@ -19,6 +19,7 @@
 /home/teus/manipulator/install/manipulator/share/manipulator/urdf/manipulator.trans
 /home/teus/manipulator/install/manipulator/share/manipulator/urdf/manipulator.urdf
 /home/teus/manipulator/install/manipulator/share/manipulator/urdf/manipulator.xacro
+/home/teus/manipulator/install/manipulator/share/manipulator/urdf/manipulator_collision.urdf
 /home/teus/manipulator/install/manipulator/share/manipulator/urdf/materials.xacro
 /home/teus/manipulator/install/manipulator/share/ament_index/resource_index/package_run_dependencies/manipulator
 /home/teus/manipulator/install/manipulator/share/ament_index/resource_index/parent_prefix_path/manipulator
