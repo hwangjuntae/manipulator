@@ -1,4 +1,5 @@
-/home/teus/manipulator/install/manipulator/share/manipulator/launch/manipulator.launch.py
+/home/teus/manipulator/install/manipulator/share/manipulator/launch/automove.launch.py
+/home/teus/manipulator/install/manipulator/share/manipulator/launch/rviz.launch.py
 /home/teus/manipulator/install/manipulator/share/manipulator/meshes/base2_1.stl
 /home/teus/manipulator/install/manipulator/share/manipulator/meshes/base_link.stl
 /home/teus/manipulator/install/manipulator/share/manipulator/meshes/case1_1.stl
