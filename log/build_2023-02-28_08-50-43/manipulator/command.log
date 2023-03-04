@@ -1,4 +1,0 @@
-Invoking command in '/home/teus/manipulator/build/manipulator': /usr/bin/cmake --build /home/teus/manipulator/build/manipulator -- -j16 -l16
-Invoked command in '/home/teus/manipulator/build/manipulator' returned '0': /usr/bin/cmake --build /home/teus/manipulator/build/manipulator -- -j16 -l16
-Invoking command in '/home/teus/manipulator/build/manipulator': /usr/bin/cmake --install /home/teus/manipulator/build/manipulator
-Invoked command in '/home/teus/manipulator/build/manipulator' returned '0': /usr/bin/cmake --install /home/teus/manipulator/build/manipulator

@@ -1,1 +1,0 @@
-/home/teus/manipulator/src/manipulator/launch/manipulator.launch.py

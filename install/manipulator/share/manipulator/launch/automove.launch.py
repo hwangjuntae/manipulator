@@ -1,1 +1,0 @@
-/home/teus/manipulator/src/manipulator/launch/automove.launch.py

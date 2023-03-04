@@ -1,2 +1,0 @@
-[0.015s] Invoking command in '/home/teus/manipulator/build/manipulator': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/teus/manipulator/build/manipulator -- -j16 -l16
-[0.041s] Invoked command in '/home/teus/manipulator/build/manipulator' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/teus/manipulator/build/manipulator -- -j16 -l16

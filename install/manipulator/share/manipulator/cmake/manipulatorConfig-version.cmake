@@ -1,1 +1,0 @@
-/home/teus/manipulator/build/manipulator/ament_cmake_core/manipulatorConfig-version.cmake
