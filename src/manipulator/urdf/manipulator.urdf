@@ -7,62 +7,62 @@
   <material name="silver">
     <color rgba="0.700 0.700 0.700 1.000"/>
   </material>
-  <transmission name="ÈžÀü 48_tran">
+  <transmission name="motor1_tran">
     <type>transmission_interface/SimpleTransmission</type>
-    <joint name="ÈžÀü 48">
+    <joint name="motor1">
       <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
     </joint>
-    <actuator name="ÈžÀü 48_actr">
+    <actuator name="motor1_actr">
       <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
       <mechanicalReduction>1</mechanicalReduction>
     </actuator>
   </transmission>
-  <transmission name="ÈžÀü 50_tran">
+  <transmission name="motor2_tran">
     <type>transmission_interface/SimpleTransmission</type>
-    <joint name="ÈžÀü 50">
+    <joint name="motor2">
       <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
     </joint>
-    <actuator name="ÈžÀü 50_actr">
+    <actuator name="motor2_actr">
       <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
       <mechanicalReduction>1</mechanicalReduction>
     </actuator>
   </transmission>
-  <transmission name="ÈžÀü 52_tran">
+  <transmission name="motor3_tran">
     <type>transmission_interface/SimpleTransmission</type>
-    <joint name="ÈžÀü 52">
+    <joint name="motor3">
       <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
     </joint>
-    <actuator name="ÈžÀü 52_actr">
+    <actuator name="motor3_actr">
       <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
       <mechanicalReduction>1</mechanicalReduction>
     </actuator>
   </transmission>
-  <transmission name="ÈžÀü 54_tran">
+  <transmission name="motor4_tran">
     <type>transmission_interface/SimpleTransmission</type>
-    <joint name="ÈžÀü 54">
+    <joint name="motor4">
       <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
     </joint>
-    <actuator name="ÈžÀü 54_actr">
+    <actuator name="motor4_actr">
       <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
       <mechanicalReduction>1</mechanicalReduction>
     </actuator>
   </transmission>
-  <transmission name="ÈžÀü 56_tran">
+  <transmission name="motor5_tran">
     <type>transmission_interface/SimpleTransmission</type>
-    <joint name="ÈžÀü 56">
+    <joint name="motor5">
       <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
     </joint>
-    <actuator name="ÈžÀü 56_actr">
+    <actuator name="motor5_actr">
       <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
       <mechanicalReduction>1</mechanicalReduction>
     </actuator>
   </transmission>
-  <transmission name="ÈžÀü 59_tran">
+  <transmission name="motor6_tran">
     <type>transmission_interface/SimpleTransmission</type>
-    <joint name="ÈžÀü 59">
+    <joint name="motor6">
       <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
     </joint>
-    <actuator name="ÈžÀü 59_actr">
+    <actuator name="motor6_actr">
       <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
       <mechanicalReduction>1</mechanicalReduction>
     </actuator>
@@ -471,7 +471,7 @@
     <parent link="case1_1"/>
     <child link="base2_1"/>
   </joint>
-  <joint name="ÈžÀü 48" type="continuous">
+  <joint name="motor1" type="continuous">
     <origin rpy="0 0 0" xyz="-0.01425 0.028 0.013"/>
     <parent link="case1_1"/>
     <child link="link1_1"/>
@@ -482,7 +482,7 @@
     <parent link="link1_1"/>
     <child link="case2_1"/>
   </joint>
-  <joint name="ÈžÀü 50" type="continuous">
+  <joint name="motor2" type="continuous">
     <origin rpy="0 0 0" xyz="0.025 0.01425 0.028"/>
     <parent link="case2_1"/>
     <child link="link2_1"/>
@@ -493,7 +493,7 @@
     <parent link="link2_1"/>
     <child link="case3_1"/>
   </joint>
-  <joint name="ÈžÀü 52" type="continuous">
+  <joint name="motor3" type="continuous">
     <origin rpy="0 0 0" xyz="-0.013 0.008 0.03525"/>
     <parent link="case3_1"/>
     <child link="link3_1"/>
@@ -504,7 +504,7 @@
     <parent link="link3_1"/>
     <child link="case4_1"/>
   </joint>
-  <joint name="ÈžÀü 54" type="continuous">
+  <joint name="motor4" type="continuous">
     <origin rpy="0 0 0" xyz="0.028 0.01425 0.013"/>
     <parent link="case4_1"/>
     <child link="link4_1"/>
@@ -515,7 +515,7 @@
     <parent link="link4_1"/>
     <child link="case5_1"/>
   </joint>
-  <joint name="ÈžÀü 56" type="continuous">
+  <joint name="motor5" type="continuous">
     <origin rpy="0 0 0" xyz="0.013 -0.01425 0.004"/>
     <parent link="case5_1"/>
     <child link="link5_1"/>
@@ -531,7 +531,7 @@
     <parent link="case6_1"/>
     <child link="link6_1"/>
   </joint>
-  <joint name="ÈžÀü 59" type="continuous">
+  <joint name="motor6" type="continuous">
     <origin rpy="0 0 0" xyz="-0.008 -0.025 0.03525"/>
     <parent link="case6_1"/>
     <child link="link7_1"/>

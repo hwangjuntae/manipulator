@@ -137,6 +137,7 @@ Visualization Manager:
             drivewhl_l_link:
               {}
             drivewhl_r_link:
+
               {}
             front_caster:
               {}
@@ -151,6 +152,7 @@ Visualization Manager:
   Enabled: true
   Global Options:
     Background Color: 48; 48; 48
+
     Fixed Frame: base_link
     Frame Rate: 30
   Name: root
@@ -162,6 +164,7 @@ Visualization Manager:
     - Class: rviz_default_plugins/FocusCamera
     - Class: rviz_default_plugins/Measure
       Line color: 128; 128; 0
+
     - Class: rviz_default_plugins/SetInitialPose
       Topic:
         Depth: 5
@@ -173,6 +176,7 @@ Visualization Manager:
       Topic:
         Depth: 5
         Durability Policy: Volatile
+
         History Policy: Keep Last
         Reliability Policy: Reliable
         Value: /goal_pose
@@ -189,6 +193,7 @@ Visualization Manager:
       Class: rviz_default_plugins/TF
   Value: true
   Views:
+
     Current:
       Class: rviz_default_plugins/Orbit
       Distance: 4.434264183044434
@@ -204,6 +209,7 @@ Visualization Manager:
       Focal Shape Fixed Size: true
       Focal Shape Size: 0.05000000074505806
       Invert Z Axis: false
+
       Name: Current View
       Near Clip Distance: 0.009999999776482582
       Pitch: 0.490397572517395

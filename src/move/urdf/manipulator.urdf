@@ -25,8 +25,8 @@
     <actuator name="motor2_actr">
       <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
       <mechanicalReduction>1</mechanicalReduction>
-    </actuator>￼
-
+    </actuator>
+  </transmission>
   <transmission name="motor3_tran">
     <type>transmission_interface/SimpleTransmission</type>
     <joint name="motor3">
@@ -266,7 +266,9 @@
       <origin rpy="0 0 0" xyz="-0.004213732758277829 -1.462482890274351e-07 0.05761392703177749"/>
       <mass value="0.18470002339388275"/>
       <inertia ixx="0.000144" ixy="0.0" ixz="-6.7e-05" iyy="0.000231" iyz="0.0" izz="0.000104"/>
-    </inertial>link
+    </inertial>
+    <visual>
+      <origin rpy="0 0 0" xyz="-0.017618 -0.000199 -0.103277"/>
       <geometry>
         <mesh filename="package://manipulator/meshes/link2_1.stl" scale="0.001 0.001 0.001"/>
       </geometry>
