@@ -1,11 +1,14 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 package_name = 'move'
 
 setup(
     name=package_name,
     version='0.0.0',
-    packages=[package_name],
+    packages=find_packages(),
+    package_data={
+        'move' : ['launch/rviz.launch.py']
+    }
     data_files=[
         ('share/ament_index/resource_index/packages',
             ['resource/' + package_name]),
