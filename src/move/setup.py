@@ -7,7 +7,6 @@ setup(
     version='0.0.0',
     packages=find_packages(),
     package_data={
-        'move' : ['launch/rviz.launch.py']
     }
     data_files=[
         ('share/ament_index/resource_index/packages',
