@@ -1,14 +1,12 @@
-import os
+#!/usr/bin/env python3
 
+import os
 import launch
 import launch_ros.actions
 
-
 def generate_launch_description():
     # 로봇 모델의 URDF 파일 경로
-    urdf_file = os.path.join(
-        os.getcwd(), 'urdf', 'manipulator.urdf'
-    )
+    urdf_file = os.path.join(os.getcwd(), 'urdf', 'manipulator.urdf')
 
     return launch.LaunchDescription([
         # control 노드 실행
@@ -26,3 +24,4 @@ def generate_launch_description():
             arguments=['-d', os.path.join(os.getcwd(), 'rviz', 'rviz_config.rviz')]
         )
     ])
+
