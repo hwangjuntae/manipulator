@@ -5,8 +5,7 @@ package_name = 'move'
 setup(
     name=package_name,
     version='0.0.0',
-    packages=['move'],
-    packages_dir={'move': 'src/move'}
+    packages=[],
     data_files=[
         ('share/ament_index/resource_index/packages',
             ['resource/' + package_name]),
@@ -22,7 +21,6 @@ setup(
     entry_points={
         'console_scripts': [
             'control = move.control:main',
-            'rviz = rviz.launch:main'
         ],
     },
 )

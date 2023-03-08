@@ -1,14 +1,6 @@
 package.xml
 setup.cfg
 setup.py
-../../build/move/move.egg-info/PKG-INFO
-../../build/move/move.egg-info/SOURCES.txt
-../../build/move/move.egg-info/dependency_links.txt
-../../build/move/move.egg-info/entry_points.txt
-../../build/move/move.egg-info/requires.txt
-../../build/move/move.egg-info/top_level.txt
-../../build/move/move.egg-info/zip-safe
-move/__init__.py
 move.egg-info/PKG-INFO
 move.egg-info/SOURCES.txt
 move.egg-info/dependency_links.txt
