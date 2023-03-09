@@ -18,6 +18,22 @@
   <export>
     <build_type>ament_python</build_type>
   </export>
+
+  <install>
+   <include file="share/${PROJECT_NAME}/package.xml"/>
+   <share
+     directory="rviz"
+     symlink="true">
+     <exclude>**/*.md</exclude>
+     <exclude>**/package.xml</exclude>
+     <exclude>**/*.rst</exclude>
+   </share>
+   <share
+     directory="launch"
+     symlink="true">
+     <exclude>**/*.md</exclude>
+     <exclude>**/package.xml</exclude>
+     <exclude>**/*.rst</exclude>
+   </share>
+  </install>
 </package>
-
-
