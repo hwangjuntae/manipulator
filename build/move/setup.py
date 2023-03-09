@@ -1,1 +1,0 @@
-/home/teus/manipulator/src/move/setup.py
