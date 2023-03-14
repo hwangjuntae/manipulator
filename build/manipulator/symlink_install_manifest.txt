@@ -1,4 +1,7 @@
 /home/teus/manipulator/install/manipulator/share/manipulator/launch/joint_state_pub.launch.py
+/home/teus/manipulator/install/manipulator/share/manipulator/launch/manipulator_control.launch.py
+/home/teus/manipulator/install/manipulator/share/manipulator/launch/manipulator_moveit.launch.py
+/home/teus/manipulator/install/manipulator/share/manipulator/launch/manipulator_rviz.launch.py
 /home/teus/manipulator/install/manipulator/share/manipulator/meshes/base2_1.stl
 /home/teus/manipulator/install/manipulator/share/manipulator/meshes/base_link.stl
 /home/teus/manipulator/install/manipulator/share/manipulator/meshes/case1_1.stl
